@@ -31,10 +31,10 @@ This Analysis comprises:
 
 -Files-
 -------
--"Employee_analysis.ipynb" : Jupyter Notebook with code, plots, and  
+-"ABC_Employee_analysis.ipynb" : Jupyter Notebook with code, plots, and  
   explanations
--"ABC-employee_dataset.csv" : Original dataset with error
--"ABC-employee_dataset_modified.csv" : Preprocessed dataset
+-"ABC_employee_dataset.csv" : Original dataset with error
+-"ABC_employee_dataset_modified.csv" : Preprocessed dataset
 
 
 _How to run-
