@@ -18,16 +18,16 @@ This Analysis comprises:
      randomly generated values ranging from 150 to 180 cm.
 3. Analysis Tasks:
    - Employee distribution of each teams with percentage split
-     (Bar chart & Pie chart)
-   - Employee segregation by position (Bar chart)
-   - Predominant Age group (Bar chart)
+     (Countplot)
+   - Employee segregation by position (Countplot)
+   - Predominant Age group (Pie chart)
    - Salary expenditure by team & position (Bar chart)
    - Age vs salary correlation (Scatter plot & Correlation coefficient)
 4. Graphical Representations of the same given above
 5. Insights
 
 
-
+-Note- : Analysis Tasks, Graphical Representations,  Insights are included in the notebook.
 
 -Files-
 -------
